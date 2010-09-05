@@ -1,0 +1,52 @@
+.clear { clear: both; }
+.f-left { float:left; }
+.f-right { float: right; }
+.gallery_edit_video { float: left; margin: 5px; }
+.gallery_edit_add_video_videos { margin-bottom: 10px; }
+.gallery_edit_add_video_url { width: 350px; }
+
+#vg_add_gallery_div { display:none; }
+#vg_add_gallery_message { display: none; width: 500px; height: auto; }
+
+span.add_gallery_video_tip a{ font-size:10px; text-decoration: underline; }
+span.add_gallery_video_tip a:hover { text-decoration: none; cursor: pointer; }
+
+/* tr#add_gallery_video_tip_tr { display: none; } */
+tr#add_gallery_video_tip_tr div#add_gallery_video_tip_div { display: none; }
+
+table#add_gallery_video_tips_table { width: 50%; }
+table#add_gallery_video_tips_table tr th { background: #D1CFCF; padding: 5px; }
+table#add_gallery_video_tips_table tr th.s { width: 20%; }
+table#add_gallery_video_tips_table tr td.s { font-weight: bold; background: #E8E8E8; }
+table#add_gallery_video_tips_table tr td.e { background: #C8FF9E; }
+
+a#how_do_i_embed { margin-left:5px; position: relative; top: 4px; text-decoration: none; font-weight: normal; }
+a#how_do_i_embed :hover { text-decoration: underline; }
+
+.post_video_gallery { width: 95%; height: auto; }
+.post_video_gallery h3 { margin-bottom: 5px; }
+.post_video_gallery div.video_item { width: auto; float:left; margin-right: 5px; margin-bottom: 5px;  }
+.post_video_gallery div.video_item a img:hover { background: #ccc; }
+.post_video_gallery div.video_item a img { border: 1px solid #ccc; padding:2px; }
+
+
+div.videoPlayerHidden { width: 95%; height: auto; }
+div.videoPlayerHidden h3 { margin-bottom: 5px; }
+div.videoPlayerHidden.video { float:left; margin-right: 5px; margin-bottom: 5px;  }
+div.videoPlayerHidden.video a img:hover { background: #ccc; }
+div.videoPlayerHidden.video a img { border: 1px solid #ccc; padding:2px; }
+
+/*** Widget ***/
+.widget_thumbnail { margin: 5px auto; }
+
+/*** Success Messages ***/
+.message { padding: 10px; border: 2px solid #ddd; background-color: #eee; color: #222; font-size: 14px; }
+.notice { background: #FFF6BF; color: #817134; border-color: #FFD324;}
+.success { background: #E6EFC2; color: #529214; border-color: #C6D880;}
+.error { background: #FBE3E4; color: #D12F19; border-color: #FBC2C4;}
+
+.gallery_edit_video_copy_text, .vg_edit_gallery_gallery_copy_text { text-align: center; }
+
+
+
+
