@@ -4,8 +4,14 @@ function _result2Array(r) {
 	return r;
 }
 
-var add_gallery_string = videoGalleryTranslation._('Galeri Ekle');
-var close_string = videoGalleryTranslation._('Kapat');
+function _log(str) {
+    if(typeof console != 'undefined')
+        console.log(str);
+}
+
+
+var add_gallery_string = objectL10n.addGallery;
+var close_string = objectL10n.close;
 
 
 jQuery(document).ready(function($) {
@@ -52,7 +58,11 @@ jQuery(document).ready(function($) {
 						$(this).text('').removeClass('success').show().css('display','none');
 					});
 				}, 5000);
-				$("#galleries").append(r[2]);
+                
+                setTimeout(function() {
+                    // document.location.reload();
+                }, 2000);
+                
 			} else {
 				$("#vg_add_gallery_message").text(r[1]);
 			}

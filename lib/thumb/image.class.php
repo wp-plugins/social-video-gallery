@@ -116,7 +116,7 @@ class Zubrag_image {
 		}		
 		
 		if (substr($from_name, 0, 7) == 'http://') {
-			$tmpfname = tempnam("tmp/", "TmP-");
+			$tmpfname = tempnam("/tmp", "TmP-");
 			$temp = @fopen($tmpfname, "w");
 			$content = @file_get_contents($from_name);
 			if ($temp) {

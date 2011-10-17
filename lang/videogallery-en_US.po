@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Gallery Plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-09-05 01:54+0200\n"
+"POT-Creation-Date: 2011-10-17 10:34+0200\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Gurkan Oluc\n"
+"Last-Translator: Gurkan Oluc <gurkanoluc@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,146 +14,150 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: $this->_;__;_\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery\n"
-"X-Poedit-SearchPath-1: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/js\n"
+"X-Poedit-SearchPath-0: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery\n"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:69
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:140
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:67
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:104
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:140
 msgid "Galeri Ekle"
 msgstr "Add gallery"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:130
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:103
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:127
 msgid "Kapat"
 msgstr "Close"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:144
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:272
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:460
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:132
+msgid "Social Video Gallery"
+msgstr "Social Video Gallery"
+
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:144
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:272
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:457
 msgid "Galeri Adı"
 msgstr "Gallery name"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:145
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:145
 msgid "Ekle"
 msgstr "Add"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:156
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:156
 msgid "Örnek URL'ler için buraya tıklayınız"
 msgstr "Click here to see example video url's"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:166
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:468
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:166
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:465
 msgid "Video genişliği"
 msgstr "Video width"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:176
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:485
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:176
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:482
 msgid "Video yüksekliği"
 msgstr "Video height"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:186
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:186
 msgid "Thumbnail genişliği x yüksekliği"
 msgstr "Thumbnail width x height"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:195
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:195
 msgid "Servis"
 msgstr "Service"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:196
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:196
 msgid "Örnek Url"
 msgstr "Example Url"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:230
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:230
 msgid "Video"
 msgstr "Video"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:242
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:531
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:242
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:528
 msgid "Video Ekle"
 msgstr "Add video"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:266
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:266
 msgid "Video yada galerileri sayfama nasıl ekleyeceğim?"
 msgstr "How can i embed video or video gallery to my post"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:267
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:267
 msgid "Galeriler"
 msgstr "Galleries"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:271
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:271
 msgid "ID"
 msgstr "ID"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:273
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:273
 msgid "Video Sayısı"
 msgstr "Videos Count"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:274
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:274
 msgid "İşlemler"
 msgstr "Operations"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:285
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:547
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:285
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:544
 msgid "Sil"
 msgstr "Delete"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:286
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:286
 msgid "Düzenle"
 msgstr "Edit"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:304
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:303
 msgid "Lütfen bir galeri adı giriniz"
 msgstr "Please type an gallery name"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:335
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:333
 msgid "Birşeyler yanlış gitti"
 msgstr "Ooops! Something went wront :/"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:351
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:349
 msgid "Galeri oluşturuldu"
 msgstr "Gallery created."
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:456
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:453
 msgid "Galeri Düzenle"
 msgstr "Edit gallery"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:500
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:497
 msgid "Thumb genişliği"
 msgstr "Thumbnail width"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:507
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:504
 msgid "Thumb yüksekliği"
 msgstr "Thumbnai height"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:515
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:512
 msgid "Yayın Kodu"
 msgstr "Embed code"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:523
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:520
 msgid "Videolar"
 msgstr "Videos"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:556
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:553
 msgid "İptal"
 msgstr "Cancel"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:862
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:859
 msgid "Video Sıralaması"
 msgstr "Videos Ordering"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:876
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:873
 msgid "Video Limiti"
 msgstr "Video limit"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:889
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:886
 msgid "Galeri seçiniz"
 msgstr "Select a gallery"
 
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:927
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:951
-#: /home/gurkan/public_html/wordpress/wp-content/plugins/video-gallery/video-gallery.php:952
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:924
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:948
+#: /Users/gurkanoluc/Projects/wordpress/wp-content/plugins/video-gallery/video-gallery.php:949
 msgid "Video Galeri"
 msgstr "Video gallery"
 
 #~ msgid "Video Galeri Ekle"
 #~ msgstr "Add video gallery"
-
