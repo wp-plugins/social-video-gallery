@@ -7,7 +7,7 @@
  */
 /*
   Plugin Name: Video Gallery
-  Plugin URI: http://www.gurkanoluc.com/blog/video-gallery-plugin
+  Plugin URI: http://blog.gurkanoluc.com/video-gallery-plugin
   Description: Video gallery plugin
   Author: Gürkan Oluç
   Version: 1.0.5
